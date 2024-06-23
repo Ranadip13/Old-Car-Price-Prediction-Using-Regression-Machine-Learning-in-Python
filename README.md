@@ -1,4 +1,4 @@
-# Old_Car_price-prediction--Regression-ML-project
+# Old Car price prediction - Regression ML project
 To evaluate the appropriate price for a second-hand/old car, one typically considers factors such as the number of years, the type of fuel, and the number of kilometers it has run. In this project, the task is to create a machine learning model that can predict the price of a car based on its specifications.
 
 In this project, a step-by-step approach to creating a Machine Learning predictive model for such scenarios was discussed. This flow can be used as a template to solve any supervised ML classification problem.
