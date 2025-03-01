@@ -1,5 +1,5 @@
-# Old Car price prediction - Regression ML project
-To evaluate the appropriate price for a second-hand/old car, one typically considers factors such as the number of years, the type of fuel, and the number of kilometers it has run. In this project, the task is to create a machine learning model that can predict the price of a car based on its specifications.
+# Old Car Price Prediction Using Regression Machine Learning in Python
+The objective of this project is to determine the accurate price of a second-hand car. Based on specifications such as the number of years the car has been used, fuel type, total KM it has run, etc. a predictive model can be built to estimate the appropriate price.
 
 In this project, a step-by-step approach to creating a Machine Learning predictive model for such scenarios was discussed. This flow can be used as a template to solve any supervised ML classification problem.
 The flow of the case study is as below:
@@ -37,7 +37,7 @@ The flow of the case study is as below:
 
 Following the above steps, various classification machine learning algorithms were tried, including Linear Regression, Decision Trees, Random Forest, AdaBoost, XGBoost, KNN, and their average accuracies were calculated. In this case, multiple algorithms have produced similar average accuracy, so any one of them can be chosen. XGBOOST is selected as the final model since it is producing the best accuracy on this data.
 
-The final step is to deploy the model. To deploy the model, the following steps are followed.
-1. Train the model using 100% data available
-2. Save the model as a serialized file which can be stored anywhere
-3. Create a python function which gets integrated with front-end (like Tableau) to take all the inputs and returns the prediction
+To deploy the model, the following steps are followed:
+1.	Train the model using 100% of the available data.
+2.	Save the model as a serialized file for storage and future use.
+3.	Develop a Python function that integrates with front-end applications to take inputs and return predictions.
