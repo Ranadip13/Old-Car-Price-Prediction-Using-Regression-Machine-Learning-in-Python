@@ -1,7 +1,7 @@
 # Old Car Price Prediction Using Regression Machine Learning in Python
 The objective of this project is to determine the accurate price of a second-hand car. Based on specifications such as the number of years the car has been used, fuel type, total KM it has run, etc. a predictive model can be built to estimate the appropriate price.
 
-In this project, a step-by-step approach to creating a Machine Learning predictive model for such scenarios was discussed. This flow can be used as a template to solve any supervised ML Regression problem.
+In this project, a step-by-step approach to creating a Machine Learning predictive model for such scenarios was discussed. This flow can be used as a template to solve any supervised Regression ML problem.
 The flow of the case study is as below:
 - Reading the data in python
 - Defining the problem statement
